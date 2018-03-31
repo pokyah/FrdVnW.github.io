@@ -1,34 +1,29 @@
+#+OPTIONS: toc:nil num:nil
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+
+#+BEGIN_EXPORT html
 ---
 layout: post
-title:  "Les pratiques dans la gestion des systèmes socio-écologiques : développements méthodologiques & application à la gestion des prairies en région herbagère belge"
-subtitle: "Feel home!"
-date:   2015-09-06 23:34:01
+title:  "Les pratiques dans la gestion des systèmes socio-écologiques"
+subtitle: "développements méthodologiques & application à la gestion des prairies en région herbagère belge"
+date:   2014-05-13
 categories: [publications]
 ---
+#+END_EXPORT
 
-<p>
 Les systèmes socio-écologiques sont tributaires d’un environnement — économique, écologique et social — caractérisé par des évolutions permanentes et de profondes incertitudes. Pour assurer la soutenabilité de ces systèmes et la prospérité (ou la survie) des familles et des communautés qui en dépendent, les agents en charge de leur gestion fixent des objectifs, élaborent des stratégies et adoptent des pratiques à partir de variables techniques et de leurs visions du monde.
-</p>
 
-<p>
+
 Nous inscrivant dans une démarche de recherche pragmatiste, nous avons développé une approche  originale pour l’étude des pratiques des agents dans la gestion des systèmes socio-écologiques. Nous l’avons appliquée aux fermes d’élevage bovin en Ardenne et en Famenne. Notre approche combine des méthodes et des procédures de disciplines variées : ethnologie, mathématique, statistique.
-</p>
 
-<p>
 L’application de l’approche méthodologique développée a mis en évidence la pertinence de modéliser semi-qualitativement les systèmes de pratiques des agriculteurs, sous la forme de réseaux d’éléments en interaction : des cartes cognitives (fuzzy cognitive maps). Celles-ci permettent d’ancrer les modèles dans les conceptions qu’ont les agriculteurs de leurs pratiques. Elles sont souples et rendent compte de la complexité de l’objet d’étude, intégrant des composantes économiques, écologiques, sociales. Associées à des méthodes statistiques, elles aboutissent à une caractérisation de la diversité des pratiques au niveau d’une communauté et offrent une méthode alternative pour établir une typologie des agriculteurs.
-</p>
 
-<p>
 Notre recherche s’inscrit dans la perspective d’une compréhension systémique des pratiques en vue d’analyser la capacité d’adaptation des agents dans un contexte évolutif et incertain.
-</p>
 
-<p>
-&#x2014;
-</p>
+---
 
-<ul class="org-ul">
-<li>Thèse présentée en vue de l’obtention du grade de docteur en sciences agronomiques et ingénierie biologique, soutenue à l’Université catholique de Louvain le 13 mai 2014</li>
-<li>Promoteurs : Pr. Philippe Baret <a href="https://uclouvain.be/en/research-institutes/eli">UCL – ELI-A</a> &amp; Dr. Didier Stilmant <a href="http://www.cra.wallonie.be/">CRA-W</a></li>
-<li>Accès libre à la thèse publiée (format éditeur, 392 pages) : Les pratiques dans la gestion des systèmes socio-écologiques</li>
-<li>Accès libre à la thèse publiée (format A4, 284 pages) : Les pratiques dans la gestion des systèmes socio-écologiques</li>
-</ul>
+- Thèse présentée en vue de l’obtention du grade de docteur en sciences agronomiques et ingénierie biologique, soutenue à l’Université catholique de Louvain le 13 mai 2014
+- Promoteurs : Pr. Philippe Baret ([[https://uclouvain.be/en/research-institutes/eli][UCL – ELI-A)]] & Dr. Didier Stilmant [[http://www.cra.wallonie.be][(CRA-W]])
+- Accès libre à la thèse publiée (format éditeur, 392 pages) : Les pratiques dans la gestion des systèmes socio-écologiques
+- Accès libre à la thèse publiée (format A4, 284 pages) : Les pratiques dans la gestion des systèmes socio-écologiques

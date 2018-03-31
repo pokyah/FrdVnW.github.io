@@ -1,8 +1,14 @@
-- slug: design
-  name: Design
+- slug: linux
+  name: Linux
 
-- slug: tools
-  name: Tools
+- slug: data-sciences
+  name: Data sciences
+
+- slug: maps
+  name: Maps
+
+- slug: publications
+  name: Publications
 
 - slug: productivity
   name: Productivity
