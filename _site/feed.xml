@@ -3,11 +3,34 @@
   <channel>
     <title>Fredo's blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Mar 2018 22:59:52 +0200</pubDate>
-    <lastBuildDate>Sat, 31 Mar 2018 22:59:52 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Apr 2018 00:33:02 +0200</pubDate>
+    <lastBuildDate>Sun, 01 Apr 2018 00:33:02 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;
+This paper presents a new cognitive mapping approach for analysing systems of practices in socialâ€“ecological systems. These systems are mapped from people’s views collected during open-ended interviews. Cognitive maps are made up of diverse variables (e.g., operations, drivers, constraints) linked to each other by a range of relationships: causeâ€“effect, fluxes of matter, information flows and sequence of two operations. Individual cognitive maps heuristically model the practices and decision-making processes expressed by interviewees. The mathematical formulation of cognitive maps allows individual cognitive maps to be aggregated into a social cognitive map. The latter can be used to model the system of practices used by a particular group of people. Using this approach, we analysed the practices and decision-making processes linked to grassland management in a Belgian grassland-based livestock farming system. Our work confirmed that a social cognitive map could be drawn up for multiple locations. The results showed how this inductive cognitive mapping approach overcame two limitations frequently highlighted in previous studies: the diverse interpretations of variables and relationships; and the difficulty in revealing the rationale in cognitive maps.
+&lt;/p&gt;
+
+&lt;p&gt;
+&amp;#x2014; 
+&lt;/p&gt;
+
+&lt;ul class=&quot;org-ul&quot;&gt;
+&lt;li&gt;Vanwindekens, F. M.; Stilmant, D. &amp;amp; Baret, P. V. (2013), Development of a broadened cognitive mapping approach for analysing systems of practices in social-ecological systems, Ecological Modelling 250, 352 – 362.&lt;/li&gt;
+&lt;li&gt;Lien vers la version personnelle de l’article : Vanwindekens, Stilmant, Baret (2013)&lt;/li&gt;
+&lt;li&gt;Lien vers la version publiée de l’article : &lt;a href=&quot;http://dx.doi.org/10.1016/j.ecolmodel.2012.11.023&quot;&gt;http://dx.doi.org/10.1016/j.ecolmodel.2012.11.023&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 01 Apr 2018 00:33:02 +0200</pubDate>
+        <link>/2018/04/01/2013-02-10-cmasop.html</link>
+        <guid isPermaLink="true">/2018/04/01/2013-02-10-cmasop.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Les pratiques dans la gestion des systèmes socio-écologiques: développements méthodologiques &amp; application à la gestion des prairies en région herbagère belge</title>
@@ -40,8 +63,8 @@ Notre recherche s’inscrit dans la perspective d’une compréhension systémiq
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 13 May 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2014/05/13/phd-vanwindekens.html</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2014/05/13/phd-vanwindekens.html</guid>
+        <link>/publications/2014/05/13/phd-vanwindekens.html</link>
+        <guid isPermaLink="true">/publications/2014/05/13/phd-vanwindekens.html</guid>
         
         
         <category>publications</category>
@@ -65,8 +88,8 @@ Farmers’ practices are characterized not only by complexity at the farm scale,
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Feb 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/publications/2014/02/14/compare-practices.html</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2014/02/14/compare-practices.html</guid>
+        <link>/publications/2014/02/14/compare-practices.html</link>
+        <guid isPermaLink="true">/publications/2014/02/14/compare-practices.html</guid>
         
         
         <category>publications</category>
@@ -90,8 +113,8 @@ Social–Ecological Systems (SES) are complex due to uncertainty related to thei
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 02 Oct 2013 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2013/10/02/aiai2013.html</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2013/10/02/aiai2013.html</guid>
+        <link>/publications/2013/10/02/aiai2013.html</link>
+        <guid isPermaLink="true">/publications/2013/10/02/aiai2013.html</guid>
         
         
         <category>publications</category>
