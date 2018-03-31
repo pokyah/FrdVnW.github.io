@@ -1,21 +1,25 @@
 # Site settings
-title: Daktilo
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: whirlblog
+description: >- # this means to ignore newlines until "baseurl:"
+   personal production and harvest of codes, trucs et ficelles et receipts for computing in Linux
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
   fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
-  # disqus: your_disqus_forum_shortname
+  twitter_username: FredVanwin
+  github_username:  FrdVnW
 
-# google_analytics: 'UA-XXXXXXXX-X'
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: bitter roots
+email: f.vanwindekens@gmail.com
+
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Syntax highlighting
 highlightstyle: ''
