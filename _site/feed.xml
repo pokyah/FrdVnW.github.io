@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Fredo's blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
@@ -22,7 +22,7 @@ This paper presents a new cognitive mapping approach for analysing systems of pr
 &lt;ul class=&quot;org-ul&quot;&gt;
 &lt;li&gt;Vanwindekens, F. M.; Stilmant, D. &amp;amp; Baret, P. V. (2013), Development of a broadened cognitive mapping approach for analysing systems of practices in social-ecological systems, Ecological Modelling 250, 352 – 362.&lt;/li&gt;
 &lt;li&gt;Lien vers la version personnelle de l’article : Vanwindekens, Stilmant, Baret (2013)&lt;/li&gt;
-&lt;li&gt;Lien vers la version publiée de l’article : &lt;a href=&quot;http://dx.doi.org/10.1016/j.ecolmodel.2012.11.023&quot;&gt;http://dx.doi.org/10.1016/j.ecolmodel.2012.11.023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lien vers la version publiée de l’article : &lt;a href=&quot;https://dx.doi.org/10.1016/j.ecolmodel.2012.11.023&quot;&gt;https://dx.doi.org/10.1016/j.ecolmodel.2012.11.023&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Apr 2018 00:33:02 +0200</pubDate>
@@ -57,7 +57,7 @@ Notre recherche s’inscrit dans la perspective d’une compréhension systémiq
 
 &lt;ul class=&quot;org-ul&quot;&gt;
 &lt;li&gt;Thèse présentée en vue de l’obtention du grade de docteur en sciences agronomiques et ingénierie biologique, soutenue à l’Université catholique de Louvain le 13 mai 2014&lt;/li&gt;
-&lt;li&gt;Promoteurs : Pr. Philippe Baret (&lt;a href=&quot;https://uclouvain.be/en/research-institutes/eli&quot;&gt;UCL – ELI-A)&lt;/a&gt; &amp;amp; Dr. Didier Stilmant &lt;a href=&quot;http://www.cra.wallonie.be/&quot;&gt;(CRA-W&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Promoteurs : Pr. Philippe Baret (&lt;a href=&quot;https://uclouvain.be/en/research-institutes/eli&quot;&gt;UCL – ELI-A)&lt;/a&gt; &amp;amp; Dr. Didier Stilmant &lt;a href=&quot;https://www.cra.wallonie.be/&quot;&gt;(CRA-W&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Accès libre à la thèse publiée (format éditeur, 392 pages) : Les pratiques dans la gestion des systèmes socio-écologiques&lt;/li&gt;
 &lt;li&gt;Accès libre à la thèse publiée (format A4, 284 pages) : Les pratiques dans la gestion des systèmes socio-écologiques&lt;/li&gt;
 &lt;/ul&gt;
@@ -84,7 +84,7 @@ Farmers’ practices are characterized not only by complexity at the farm scale,
 &lt;ul class=&quot;org-ul&quot;&gt;
 &lt;li&gt;Vanwindekens, F. M.; Baret, P. V. &amp;amp; Stilmant, D. (2014), A new approach for comparing and categorizing farmers’ systems of practice based on cognitive mapping and graph theory indicators, Ecological Modelling 274, 1 – 11.&lt;/li&gt;
 &lt;li&gt;Lien vers la version personnelle de l’article : Vanwindekens, Baret, Stilmant (2013)&lt;/li&gt;
-&lt;li&gt;Lien vers la version publiée de l’article : &lt;a href=&quot;http://dx.doi.org/10.1016/j.ecolmodel.2013.11.026&quot;&gt;http://dx.doi.org/10.1016/j.ecolmodel.2013.11.026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lien vers la version publiée de l’article : &lt;a href=&quot;https://dx.doi.org/10.1016/j.ecolmodel.2013.11.026&quot;&gt;https://dx.doi.org/10.1016/j.ecolmodel.2013.11.026&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Feb 2014 00:00:00 +0100</pubDate>
@@ -109,7 +109,7 @@ Social–Ecological Systems (SES) are complex due to uncertainty related to thei
 &lt;ul class=&quot;org-ul&quot;&gt;
 &lt;li&gt;Vanwindekens, F. M.; Stilmant, D. &amp;amp; Baret, P. V. (2013), The Relevance of Fuzzy Cognitive Mapping Approaches for Assessing Adaptive Capacity and Resilience in Social–Ecological Systems, in Harris Papadopoulos; Andreas S. Andreou; Lazaros Iliadis &amp;amp; Ilias Maglogiannis, ed., Artificial Intelligence Applications and Innovations, Springer Berlin Heidelberg, pp. 587-596.&lt;/li&gt;
 &lt;li&gt;Lien vers la version personnelle de l’article : Vanwindekens, Stilmant, Baret (2013a)&lt;/li&gt;
-&lt;li&gt;Lien vers la version publiée de l’article : &lt;a href=&quot;http://dx.doi.org/10.1007/978-3-642-41142-7_59&quot;&gt;http://dx.doi.org/10.1007/978-3-642-41142-7_59&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lien vers la version publiée de l’article : &lt;a href=&quot;https://dx.doi.org/10.1007/978-3-642-41142-7_59&quot;&gt;https://dx.doi.org/10.1007/978-3-642-41142-7_59&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 02 Oct 2013 00:00:00 +0200</pubDate>

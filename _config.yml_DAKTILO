@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    personal production and harvest of codes, trucs et ficelles et receipts for computing in Linux
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
 author:
   fullname: Fred Vanwin

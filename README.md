@@ -4,7 +4,7 @@
 Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
 # More info and Live preview
-[Click here](http://daktilo.github.io/) to see the theme in action.
+[Click here](https://daktilo.github.io/) to see the theme in action.
 
 # Features
 - Fully responsive
@@ -14,13 +14,13 @@ Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from ty
 - Support for categories.
 - Font-Awesome Icons.
 - Optimized for SEO.
-- Coolest [404 page ever](http://electrik-frog.com/daktilo/404.html).
+- Coolest [404 page ever](https://electrik-frog.com/daktilo/404.html).
 
 # How to use it
 Start by cloning the repository, then check the `_config.yml` file and change it accordingly.
 Note that the `title` property is what will be displayed as logo.
 
-Finally execute `jekyll serve --watch` and head to [localhost:4000](http://127.0.0.1:4000) to see the result.
+Finally execute `jekyll serve --watch` and head to [localhost:4000](https://127.0.0.1:4000) to see the result.
 
 # Using categories
 Categories are little bit tricky. Please make sure to do the following for each category:
